@@ -1,0 +1,49 @@
+
+body{margin: 0%;padding: 0%;background-color: rgb(233, 231, 231);}
+a{text-decoration: none;}
+a:hover {background-color:rgb(201, 241, 241)}
+.index{text-align: center;}
+.index header{text-align: center;padding: 1%;}
+.index .ident a,#ident{ display: inline-block;text-align: left;}
+.index .ident a{width: 15%;height: 18%;}
+.index .main{text-align: left; width: 80%; background-color: white;margin-left: 8%;}
+.index .main article {display: inline-block;vertical-align: top;text-align: justify; width: 50%;margin-left: 2%;}
+.index .main #img{width: 40%; margin-left: 1%;}
+
+.bilan{text-align: center;margin: 0%;padding: 0%;}
+.bilan #main #tab1,#tab2{background-color: white; display: inline-block;text-align: justify;border: 2px solid #ddd;padding-left: 35px;}
+.bilan #main #tab1{width: 25%;}
+.bilan #main #tab2{width: 45%;vertical-align: top;height: 873px;padding-right: 10px;}
+.bilan #main #tab1 th{width: 82%;padding: 3px;border-bottom: 1px solid #ddd;}
+.bilan #main #tab2 th{width: 93%;padding: 3px;}
+.bilan #main td{text-align: right;}
+.bilan #main th,td{border-bottom: 1px solid #ddd;}
+.bilan #main h2{margin-left: -5%;}
+.bilan #main #tab2 #cat:hover {background-color:rgb(201, 241, 241)}
+
+.operateur{text-align: center;}
+.operateur header{text-align: center;}
+.operateur #tab {width: 19%;vertical-align: top;height: 900px;background-color: white;;}
+.operateur #tab th {width:230px;padding: 3px;border-bottom: 1px solid #ddd;}
+.operateur #tab th h2{margin-left: -5%;}
+.operateur #tab td{text-align: right;}
+.operateur tbody {text-align: left;}
+.operateur #main div{display: inline-block;padding-left: 15px} 
+.operateur #frame{width: 78%;background-color: white;background-color: white;text-align: left;} 
+.operateur #frame div{width: 100%;}
+.operateur iframe {width: 98.5%;height: 455px;;}
+.operateur #donnees iframe{height: 300px;}
+.operateur h2{text-align: justify;}
+
+.annee{text-align: justify;background-color: rgb(255, 255, 255);height: 500px;width: 2000px;}
+.annee tbody td{width: 65px;text-align: right;}
+.annee thead th{width: 65px;text-align: right;background-color:rgb(173, 174, 175);}
+.annee tbody th{width: 120px;}
+.annee tr:hover {background-color:rgb(201, 241, 241)}
+ .annee tbody th:hover {background-color:rgb(201, 241, 241)}
+
+.donnees{text-align: right;}
+.donnees th{width:250px}
+.donnees thead tr{background-color: rgb(173, 174, 175);colonne: fixed;margin-top: -10px;padding-top: 6px;}
+.donnees tbody td,th{width:250px}
+.donnees tr:nth-child(even) {background-color: #f2f2f2;}
