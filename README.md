@@ -11,7 +11,7 @@ This project involved developing a version of the classic game "Battleship". It 
 Building the Snake Game from scratch was an exciting challenge. It helped me understand how to handle user inputs and game states, and how to work with graphics in Python.
 
 ## SimpleChat
-![SimpleChat](/SimpleChat/SimpleChat.png)
+![simpleChat](/SimpleChat/SimpleChat.png)
 The SimpleChat project was about creating a basic chat application. This project gave me insights into network programming and handling real-time data in Python.
 
 ## Processing_CSV_file
